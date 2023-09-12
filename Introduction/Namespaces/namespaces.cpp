@@ -36,4 +36,5 @@ int main() {
     // Displays second namespace version of x
     std::cout << second::x << "\n";
 
+    return 0;
 }
