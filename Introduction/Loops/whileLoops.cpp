@@ -8,7 +8,7 @@ int main() {
     
     The while Loop:
 
-    This loop keeps iterating for as long as the passed condition is active.
+    This loop keeps iterating for as long as the passed condition is true.
     The syntax for a while loop is as follows:
 
     while (<condition>) {
